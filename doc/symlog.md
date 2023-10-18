@@ -1,0 +1,1 @@
+See [A bi-symmetric log transformation for wide-range data](https://www.researchgate.net/profile/John_Webber4/publication/233967063_A_bi-symmetric_log_transformation_for_wide-range_data/links/0fcfd50d791c85082e000000.pdf) by Webber for details. Unlike a [log scale](https://pub.dev/documentation/d4_scale/latest/d4_scale/ScaleLog.html), a symlog scale domain can include zero.

@@ -1,0 +1,28 @@
+dartdoc:
+  categories:
+    "Linear scales":
+      markdown: doc/linear.md
+    "Time scales":
+      markdown: doc/time.md
+    "Pow scales":
+      markdown: doc/pow.md
+    "Log scales":
+      markdown: doc/log.md
+    "Symlog scales":
+      markdown: doc/symlog.md
+    "Ordinal scales":
+      markdown: doc/ordinal.md
+    "Band scales":
+      markdown: doc/band.md
+    "Point scales":
+      markdown: doc/point.md
+    "Sequential scales":
+      markdown: doc/sequential.md
+    "Diverging scales":
+      markdown: doc/diverging.md
+    "Quantile scales":
+      markdown: doc/quantile.md
+    "Quantize scales":
+      markdown: doc/quantize.md
+    "Threshold scales":
+      markdown: doc/threshold.md

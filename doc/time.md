@@ -1,0 +1,1 @@
+Time scales are a variant of [linear scales](https://pub.dev/documentation/d4_scale/latest/topics/Diverging%20scales-topic.html) that have a temporal domain. Time scales implement ticks based on calendar intervals, taking the pain out of generating axes for temporal domains.

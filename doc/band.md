@@ -1,0 +1,3 @@
+Band scales are like [ordinal scales](https://pub.dev/documentation/d4_scale/latest/topics/Ordinal%20scales-topic.html) except the output range is continuous and numeric. The scale divides the continuous range into uniform bands. Band scales are typically used for bar charts with an ordinal or categorical dimension.
+
+<img src="https://raw.githubusercontent.com/d3/d3-scale/master/img/band.png" width="751" height="238" alt="band">

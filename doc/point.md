@@ -1,0 +1,1 @@
+Point scales are a variant of [band scales](https://pub.dev/documentation/d4_scale/latest/topics/Band%20scales-topic.html) with the bandwidth fixed to zero. Point scales are typically used for scatterplots with an ordinal or categorical dimension.

@@ -1,0 +1,1 @@
+Unlike [continuous scales](https://pub.dev/documentation/d4_scale/latest/topics/Linear%20scales-topic.html), ordinal scales have a discrete domain and range. For example, an ordinal scale might map a set of named categories to a set of colors, or determine the horizontal positions of columns in a column chart.

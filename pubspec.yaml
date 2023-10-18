@@ -1,0 +1,19 @@
+name: d4_scale
+version: 0.1.0
+description: Encodings that map abstract data to visual representation.
+repository: https://github.com/luizbarboza/d4_scale
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  d4_array: ^1.0.0
+  d4_format: ^1.0.0
+  d4_interpolate: ^1.0.2
+  d4_time: ^1.0.0
+  d4_time_format: ^1.0.0
+
+dev_dependencies:
+  d4_color: ^1.0.0
+  lints: ^2.1.1
+  test: ^1.22.0
