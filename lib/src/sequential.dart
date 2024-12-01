@@ -34,7 +34,8 @@ abstract base class ScaleSequentialBase<Y> implements Scale<num, Y> {
         ? unknown
         : interpolator(_k10 == 0
             ? 0.5
-            : (x = (x - _t0) * _k10, clamp ? max(0, min(1, x)) : x).$2);
+            : (x = (_transform(x) - _t0) * _k10, clamp ? max(0, min(1, x)) : x)
+                .$2);
   }
 
   @override
